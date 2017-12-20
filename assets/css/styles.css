@@ -1,8 +1,8 @@
 body {
-    background: url(../images/couplespicture.jpg);
+    background-image: url('../images/couplespicture.jpg');
     background-size: cover;
     background-position: center; 
-}
+} 
 
 body,
 html {
